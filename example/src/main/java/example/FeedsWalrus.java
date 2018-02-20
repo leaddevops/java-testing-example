@@ -8,6 +8,10 @@ public class FeedsWalrus {
 	OpensCan opensCan = new OpensCan();
 
 	public void feed(Walrus gary, CannedWalrusFood can) {
+		int a = 0;
+		if("a" == "b"){
+			a = 20;
+		}
 		gary.addToStomach(opensCan.open(can));
 	}
 
