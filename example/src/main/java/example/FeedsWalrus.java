@@ -11,6 +11,11 @@ public class FeedsWalrus {
 		int a = 0;
 		if("a" == "b"){
 			a = 20;
+			int k = 20;
+			
+			String aa = "new";
+			
+				
 		}
 		gary.addToStomach(opensCan.open(can));
 	}
