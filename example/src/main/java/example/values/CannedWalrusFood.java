@@ -9,6 +9,11 @@ public class CannedWalrusFood {
 
 	public CannedWalrusFood(WalrusFood food) {
 		this.food = food;
+		int a = 1;
+		if("a" == "b"){
+			a = 2;
+		}
+			
 	}
 
 	public WalrusFood extractContents() {
